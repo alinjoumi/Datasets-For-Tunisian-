@@ -1,0 +1,70 @@
+.blackfont {
+  width: 124px;
+  color: #fff;
+  position: absolute;
+  top: 978px;
+  left: 540px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+  background: rgba(182,25,25,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.redfont {
+  width: 107px;
+  color: #fff;
+  background: rgba(182,25,25,1);
+  position: absolute;
+  top: 474px;
+  left: 21px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: center;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.filter {
+  width: 207px;
+  color: #fff;
+  background: rgba(182,25,25,1);
+  position: absolute;
+  top: 474px;
+  left: 210px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: center;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.wallys_image{
+  width: 20%;
+  height: 108px;
+  object-fit: cover;
+}
+.wallys_image2{
+  width: 258px;
+  height: 127px;
+  top: 168px;
+  left: 725px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  overflow: hidden;
+}
